@@ -1,0 +1,27 @@
+<yml_catalog>
+  <shop>
+    <name>AvtoPoryadok</name>
+    <company>AvtoPoryadok ltp.</company>
+    <url>http://a-poryadok.ru/</url>
+    <curencies>
+      <currency id="RUR" rate="1"/>
+      <currency id="USD" rate="60"/>
+    </curencies>
+    <!--  Категории  -->
+    <categories>
+      <category id="1">Перевозка животных в автомобиле</category>
+      <category id="2">Чехлы для колес</category>
+      <category id="3">Органайзеры в салон и багажник автомобиля</category>
+      <category id="4">Защита сидений автомобиля</category>
+    </categories>
+    <!--  Категории  -->
+    <!--  Описание метода доставки  -->
+    <delivery-options>
+      <option days="3" order-before=""/>
+    </delivery-options>
+    <shipment-options>
+      <option days="" order-before=""/>
+    </shipment-options>
+  </shop>
+  <offers>
+</yml_catalog>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<yml_catalog>
+  <shop>
+    <name>AvtoPoryadok</name>
+    <company>AvtoPoryadok ltp.</company>
+    <url>http://a-poryadok.ru/</url>
+    <curencies>
+      <currency id="RUR" rate="1"/>
+      <currency id="USD" rate="60"/>
+    </curencies>
+    <!--  Категории  -->
+    <categories>
+      <category id="1">&#x41F;&#x435;&#x440;&#x435;&#x432;&#x43E;&#x437;&#x43A;&#x430; &#x436;&#x438;&#x432;&#x43E;&#x442;&#x43D;&#x44B;&#x445; &#x432; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x43E;&#x431;&#x438;&#x43B;&#x435;</category>
+      <category id="2">&#x427;&#x435;&#x445;&#x43B;&#x44B; &#x434;&#x43B;&#x44F; &#x43A;&#x43E;&#x43B;&#x435;&#x441;</category>
+      <category id="3">&#x41E;&#x440;&#x433;&#x430;&#x43D;&#x430;&#x439;&#x437;&#x435;&#x440;&#x44B; &#x432; &#x441;&#x430;&#x43B;&#x43E;&#x43D; &#x438; &#x431;&#x430;&#x433;&#x430;&#x436;&#x43D;&#x438;&#x43A; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x43E;&#x431;&#x438;&#x43B;&#x44F;</category>
+      <category id="4">&#x417;&#x430;&#x449;&#x438;&#x442;&#x430; &#x441;&#x438;&#x434;&#x435;&#x43D;&#x438;&#x439; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x43E;&#x431;&#x438;&#x43B;&#x44F;</category>
+    </categories>
+    <!--  Категории  -->
+    <!--  Описание метода доставки  -->
+    <delivery-options>
+      <option days="3" order-before=""/>
+    </delivery-options>
+    <shipment-options>
+      <option days="" order-before=""/>
+    </shipment-options>
+  </shop>
+  <offers>
+  <offer><id>5151</id><available/><url/><name/><oldprice/><price/><vendor/></offer><offer><id>151515325</id><available/><url/><name/><oldprice/><price/><vendor/></offer><offer><id>151351</id><available/><url/><name/><oldprice/><price/><vendor/></offer><offer><id>151325321</id><available/><url/><name/><oldprice/><price/><vendor/></offer></offers>
+</yml_catalog>
